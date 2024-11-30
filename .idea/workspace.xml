@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4653d9e9-c705-42b6-b053-d3b2168f544b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/api-0.31.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.17.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-compress-1.27.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.16.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/error_prone_annotations-2.27.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jna-5.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logback-core-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logback-jackson-0.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logback-json-core-0.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onnxruntime-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onnxruntime-engine-0.31.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-2.0.16.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account/Signup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account/UpdateProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Admin/AdminAddArticles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Admin/AdminDeleteArticles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Admin/AdminEditArticles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Article/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Article/ArticleCategorizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Database/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserPreferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/extra.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pYjDd9Hbk7tmVZ4XBGw1A4rBnw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Driver.executor": "Run",
+    "Application.Extra.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ashan/IdeaProjects/OOP CW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ashan\IdeaProjects\OOP" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4653d9e9-c705-42b6-b053-d3b2168f544b" name="Changes" comment="" />
+      <created>1732949784792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732949784792</updated>
+      <workItem from="1732949785859" duration="1826000" />
+      <workItem from="1732955490265" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
